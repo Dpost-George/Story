@@ -1,1 +1,2 @@
-This is chapter4 created when working with branching to illustrate
+This is chapter4 created when working with branching to illustrate 
+This are the changes made on chapter4 after fork from another account
